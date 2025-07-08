@@ -1,7 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { FaFacebook, FaGithub } from 'react-icons/fa'
-import heroImg from './../assets/hero-img.PNG'
+import heroImg from './../assets/hero-img.png'
 import { LiaLinkedinIn } from 'react-icons/lia'
 import Resume from './../assets/latestCS.pdf'
 import { FiYoutube } from 'react-icons/fi'
