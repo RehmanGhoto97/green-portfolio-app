@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
-import slidImg1 from './../assets/images/dctr.jpg'
+import slidImg1 from './../assets/images/dctr.JPG'
 import slidImg2 from './../assets/images/hotl.jpg'
 import slidImg3 from './../assets/images/p1.png'
 import slidImg4 from './../assets/images/portfolio1.jpg'
